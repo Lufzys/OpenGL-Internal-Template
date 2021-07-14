@@ -1,2 +1,3 @@
 # OpenGL-Internal-Template
-OpenGL Internal Hook with ImGui Impl.
+OpenGL3 Internal Hook with ImGui Impl.
+Written specifically for AssaultCube
